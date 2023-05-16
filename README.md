@@ -69,6 +69,46 @@ Creación de una aplicación simple utilizando un framework. -->
 :small_orange_diamond: Funciones Vacias, con parametros y uso de retornos.<br>
 
 
+
+
+
+<!--*****************************************************************************************
+En PHP, las variables son contenedores utilizados para almacenar datos. Estos datos pueden ser de diferentes tipos, que determinan cómo se almacena y manipula la información. A continuación, se explica detalladamente cómo se utilizan las variables y los tipos de datos en PHP, con ejemplos:
+
+Variables en PHP:
+
+Las variables en PHP se declaran con el símbolo de dólar ($), seguido de un nombre válido de variable. Por ejemplo: $nombre, $edad, $precio.
+Las variables en PHP son de tipo dinámico, lo que significa que no es necesario especificar su tipo al declararlas. El tipo de datos se determina automáticamente según el valor asignado a la variable.
+Tipos de datos en PHP:
+
+a) Tipos escalares:
+
+Enteros (int): Representan números enteros sin decimales. Ejemplo: $edad = 25;
+Flotantes (float): Representan números con decimales. Ejemplo: $precio = 19.99;
+Cadenas de caracteres (string): Representan texto. Se pueden definir utilizando comillas simples ('') o comillas dobles (""). Ejemplo: $nombre = "Juan";
+Booleanos (bool): Representan valores de verdadero (true) o falso (false). Ejemplo: $activo = true;
+b) Tipos compuestos:
+
+Arreglos (array): Almacenan múltiples valores en una sola variable. Ejemplo: $numeros = [1, 2, 3, 4];
+Objetos (object): Representan instancias de clases definidas por el usuario. Ejemplo:
+php
+Copy code
+class Persona {
+  public $nombre;
+  public $edad;
+}
+$persona = new Persona();
+$persona->nombre = "Juan";
+$persona->edad = 25;
+c) Tipos especiales:
+
+Recurso (resource): Representa un recurso externo, como una conexión a una base de datos o un archivo abierto.
+Nulo (null): Representa la ausencia de valor. Se utiliza cuando una variable no tiene un valor asignado. Ejemplo: $variable = null;
+Estos son solo algunos ejemplos de los tipos de datos disponibles en PHP. Además, PHP también ofrece características avanzadas, como tipos de datos personalizados mediante clases y interfaces, así como tipos escalares estrictos introducidos en versiones más recientes de PHP (a partir de PHP 7).
+-->
+
+
+
 ### :bookmark_tabs: Estructuras de datos en PHP.
 
 <!--
