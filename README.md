@@ -62,19 +62,16 @@ Creación de una aplicación simple utilizando un framework. -->
 :small_orange_diamond: El ciclo de solicitud y respuesta en una aplicación PHP. <br/>
 :small_orange_diamond: Sintaxis básica de PHP.<br/>
 :small_orange_diamond: Variables y tipos de datos.<br/>
+:small_orange_diamond: Entrada y salida de datos por consola.<br>
 :small_orange_diamond: Operadores aritméticos, de asignación y de comparación.<br/>
-:small_orange_diamond:
-Estructuras de control: condicionales (if, else, elseif), bucles (for, while) y estructuras de control de flujo (break, continue). <br>
-:small_orange_diamond: Ventajas de Python. <br>
-:small_orange_diamond: Instalación y configuración del entorno de desarrollo (visual code studio).<br>
-:small_orange_diamond: Fundamentos de programación en Python.<br>
-:small_orange_diamond: Variables y tipos de datos.<br>
-:small_orange_diamond: Operadores aritméticos, lógicos y de comparación.<br>
+:small_orange_diamond: Condicionales (if, else, elseif), bucles (for, while) y estructuras de control de flujo (break, continue). <br>
 :small_orange_diamond: Estructuras de control de flujo: if, else, elif, while, for.<br>
 :small_orange_diamond: Funciones Vacias, con parametros y uso de retornos.<br>
-:small_orange_diamond: Entrada y salida de datos por consola.<br>
 
-### :bookmark_tabs: Estructuras de datos en Python.
+
+### :bookmark_tabs: Estructuras de datos en PHP.
+
+<!--
 :small_orange_diamond: Listas.<br>
 :small_orange_diamond: Tuplas.<br>
 :small_orange_diamond: Diccionarios.<br>
@@ -90,3 +87,4 @@ Estructuras de control: condicionales (if, else, elseif), bucles (for, while) y 
 :small_orange_diamond: Introducción POO.<br>
 :small_orange_diamond: Introduccion al MVC.<br>
 :small_orange_diamond: Interfaz de usuario POO - MVC.<br>
+-->
