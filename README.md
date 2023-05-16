@@ -14,14 +14,7 @@ EL saber PHP es importante porque te permite desarrollar aplicaciones web dinám
 
 
 
-Qué es PHP y para qué se utiliza.
-Instalación de PHP y configuración del entorno de desarrollo.
-El ciclo de solicitud y respuesta en una aplicación PHP.
-Sintaxis básica de PHP:
-
-Variables y tipos de datos.
-Operadores aritméticos, de asignación y de comparación.
-Estructuras de control: condicionales (if, else, elseif), bucles (for, while) y estructuras de control de flujo (break, continue).
+<!--
 Trabajo con formularios:
 
 Recibir datos de formularios HTML en PHP.
@@ -61,9 +54,17 @@ Introducción a frameworks PHP:
 
 Breve introducción a frameworks populares como Laravel, Symfony o CodeIgniter.
 Ventajas de utilizar un framework.
-Creación de una aplicación simple utilizando un framework.
+Creación de una aplicación simple utilizando un framework. -->
 
-:small_orange_diamond: ¿Qué es Python?. <br>
+:small_orange_diamond: Qué es PHP.<br/>
+:small_orange_diamond: Para qué se utiliza.<br/>
+:small_orange_diamond: Instalación de PHP y configuración del entorno de desarrollo.<br/>
+:small_orange_diamond: El ciclo de solicitud y respuesta en una aplicación PHP. <br/>
+:small_orange_diamond: Sintaxis básica de PHP.<br/>
+:small_orange_diamond: Variables y tipos de datos.<br/>
+:small_orange_diamond: Operadores aritméticos, de asignación y de comparación.<br/>
+:small_orange_diamond:
+Estructuras de control: condicionales (if, else, elseif), bucles (for, while) y estructuras de control de flujo (break, continue). <br>
 :small_orange_diamond: Ventajas de Python. <br>
 :small_orange_diamond: Instalación y configuración del entorno de desarrollo (visual code studio).<br>
 :small_orange_diamond: Fundamentos de programación en Python.<br>
